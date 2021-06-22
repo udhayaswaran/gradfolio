@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: UDHAYASWARAN
+description: ______________
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: udhayaswaran@gmail.com
 
 
 highlighter: rouge
@@ -17,12 +17,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+linkedin: "udhayaswaran"
+github: "udhayaswaran"
+
 
 highlighter: rouge
 markdown: kramdown
