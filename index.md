@@ -6,7 +6,7 @@ profile:
   image: profile.png
 published: true
 ---
-I'm Udhayaswaran Ponshunmugam, a software engineer.  
+Hi - I'm Udhayaswaran Ponshunmugam, a software engineer.  
 
 I graduated from Wake Forest University in December of 2019 with a `B.S. in Computer Science`. At Wake Forest, I was a Richter Scholar, Teaching Assistant in the Department of Computer Science, President of the <a href = "https://www.acm.org/"> ACM</a> University Chapter, and Resident Adviser.  
 
@@ -17,4 +17,4 @@ I'm currently working as a Rotation [Software] Engineer at `NIKE`. I have worked
 
 Currently, I'm particularly interested in backend engineering that is cloud-native and have an interest in the infrastructure that powers the services that people globally use daily.
 
-In my free time, I like to play chess, work-out, read (currently reading the Tao of Charlie Munger) and skateboard. I also enjoy doing projects related to my interests. Currently, I'm working on building a chess engine from scratch that can understand moves and assess if they're legal. I'm hoping to implement efficient techniques that are non-ML based that utilize algorithms such as minimax.
+In my free time, I like to play chess, work-out, read (currently reading the Tao of Charlie Munger) and skateboard. I also enjoy doing projects related to my interests such as  `finance` and `chess`. Currently, I'm working on building a chess engine from scratch that can understand moves and assess various charactersitics including legality and strength. I'm hoping to implement efficient techniques and algorithms such as minimax. Please feel free to reach out to me via email or LinkedIn.
